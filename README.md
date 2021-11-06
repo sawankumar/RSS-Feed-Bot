@@ -26,7 +26,7 @@ python gen_str.py
 ```
 (heroku users run in heroku console)
 
-# How to Install Database ?
+### How to Install Database ?
 
 In the case of postgres, this is how you would set up a the database on a Arch Linux system. Other distributions may vary.
 
