@@ -1,0 +1,7 @@
+pyrogram
+feedparser
+apscheduler
+psycopg2-binary
+sqlalchemy==1.3.23
+python-dotenv
+TgCrypto
