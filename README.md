@@ -72,9 +72,6 @@ repeat for your username, password, hostname (localhost?), port (5432?), and db 
 
 ## Deployment
 
-### Deploying on Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fsawankumar%2FRSS-Feed-Bot&plugins=postgresql&envs=API_ID%2CAPI_HASH%2CFEED_URLS%2CBOT_TOKEN%2CLOG_CHANNEL%2CINTERVAL%2CMAX_INSTANCES%2CMIRROR_CHAT_ID%2CMIRROR_CMD%2CSTR_SESSION&optionalEnvs=MIRROR_CHAT_ID%2CMIRROR_CMD%2CSTR_SESSION&API_IDDesc=Get+it+from+my.telegram.org&API_HASHDesc=Get+it+from+my.telegram.org&FEED_URLSDesc=RSS+Feed+URL+of+the+site.+Split+by+%7C+if+there+are+more+than+one.&BOT_TOKENDesc=Get+it+by+creating+a+bot+on+https%3A%2F%2Ft.me%2Fbotfather&LOG_CHANNELDesc=Create+a+channel+%2C+send+a+message+and+forward+that+message+to+%40username_to_id_bot+%2C+you+will+get+channel+id.&INTERVALDesc=Times+between+checks.&MAX_INSTANCESDesc=1+is+more+than+enough.&MIRROR_CHAT_IDDesc=Only+useful+if+u+filled+string+session+variable.+This+will+send+mirror+commands+on+your+behalf+to+the+mentioned+chat+id.&MIRROR_CMDDesc=Only+useful+if+u+filled+string+session+variable.Mirror+command+of+your+bot.&STR_SESSIONDesc=Fill+this+if+you+wanna+setup+autoleech+or+automirror+system.&INTERVALDefault=30&MAX_INSTANCESDefault=1)
-
 ### Deploying on Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
